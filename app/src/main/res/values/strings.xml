@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="save">Save</string>
+    <string name="delete_all_notes">Delete all notes</string>
+</resources>
